@@ -8,8 +8,13 @@ namespace github
 {
     internal class Program
     {
+        //Diego Eduardo García Martínez
         static void Main(string[] args)
         {
+            while (true)
+            {
+
+            }
         }
     }
 }
